@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
@@ -18,3 +18,6 @@ If you are developing a production application, we recommend using TypeScript wi
 =======
 # React-router-dom
 >>>>>>> 77e951585aa037ff93391a6a99dc175b76e8fe84
+=======
+# react-router-dom
+>>>>>>> fd0c171c6dbbbfcee1605eee5cfe16367c0b55db
