@@ -1,0 +1,31 @@
+
+.navbar {
+  display: flex;
+  gap: 0;
+  margin-bottom: 20px;
+}
+
+.navbar a {
+  color: purple;
+  font-size: 16px;
+}
+
+.page-content {
+  display: flex;
+  align-items: center;
+  gap: 45px;
+}
+
+.page-content h1 {
+  font-family: "Times New Roman", serif;
+  font-size: 30px;
+  color: black;
+  margin: 0;
+}
+
+.email {
+  color: lightcoral;
+  font-family: Arial, sans-serif;
+  font-size: 40px;
+  margin: 0;
+}
