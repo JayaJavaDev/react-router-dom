@@ -1,23 +1,61 @@
+# React Router DOM
 
-# React + Vite
+A React application built to understand and implement client-side routing using React Router DOM.
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+## 🚀 Features
 
-Currently, two official plugins are available:
+- Client-side navigation without page reloads
+- Multiple page routing
+- Reusable React components
+- Navigation using `Link` and `NavLink`
+- Dynamic route handling
+- Clean and responsive user interface
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🛠️ Technologies Used
 
-## React Compiler
+- React.js
+- React Router DOM
+- JavaScript (ES6+)
+- HTML5
+- CSS3
+- Vite
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 📂 Project Setup
 
-## Expanding the Oxlint configuration
+1. Clone the repository:
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
-=======
-# React-router-dom
->>>>>>> 77e951585aa037ff93391a6a99dc175b76e8fe84
-=======
-# react-router-dom
->>>>>>> fd0c171c6dbbbfcee1605eee5cfe16367c0b55db
+   ```bash
+   git clone https://github.com/JayaJavaDev/react-router-dom.git
+   ```
+
+2. Navigate to the project folder:
+
+   ```bash
+   cd react-router-dom
+   ```
+
+3. Install dependencies:
+
+   ```bash
+   npm install
+   ```
+
+4. Start the development server:
+
+   ```bash
+   npm run dev
+   ```
+
+## 🎯 Learning Objectives
+
+This project helped me understand React Router DOM, navigation between pages, routing concepts, and building single-page applications using React.
+
+## 👩‍💻 Author
+
+**JayaJavaDev**
+
+GitHub: https://github.com/JayaJavaDev
+
+---
+
+⭐ If you find this project useful, feel free to explore the repository!
