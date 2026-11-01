@@ -34,8 +34,6 @@ function App() {
           <Route path="/services" element={<Services />} />
           <Route path="/contact" element={<Contact />} />
         </Routes>
-
-        <p className="email">jaya29032005@gmail.com</p>
       </div>
     </BrowserRouter>
   );
